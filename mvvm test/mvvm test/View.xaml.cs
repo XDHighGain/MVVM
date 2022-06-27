@@ -26,7 +26,7 @@ namespace mvvm_test
             InitializeComponent();
             _viewModel = new ViewModel();
         }
-        ////////////some changes
+        ////////////second changes 
 
     }
 }
