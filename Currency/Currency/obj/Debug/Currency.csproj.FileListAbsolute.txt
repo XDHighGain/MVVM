@@ -1,0 +1,15 @@
+C:\Users\Ravin\source\repos\Currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\Ravin\source\repos\Currency\Currency\bin\Debug\Currency.exe
+C:\Users\Ravin\source\repos\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\App.g.cs
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency_MarkupCompile.cache
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency_MarkupCompile.lref
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.g.resources
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.exe
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\View\View.g.cs
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\View\View.baml
+C:\Users\Ravin\source\repos\Currency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Ravin\source\repos\NameList\NameList\bin\Debug\NameList.exe.config
+C:\Users\Ravin\source\repos\NameList\NameList\bin\Debug\NameList.exe
+C:\Users\Ravin\source\repos\NameList\NameList\bin\Debug\NameList.pdb
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.csprojAssemblyReference.cache
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.Properties.Resources.resources
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.csproj.GenerateResource.cache
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.csproj.CoreCompileInputs.cache
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.exe
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.pdb
+C:\Users\Ravin\source\repos\NameList\NameList\obj\Debug\NameList.Form1.resources

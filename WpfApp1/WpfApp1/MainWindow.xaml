@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="List of universities" Height="450" Width="563.08">
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Ravin\source\repos\WpfApp1\WpfApp1\Source\Background.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button Margin="328,120,62,234">
+
+        </Button>
+        <TextBox HorizontalAlignment="Left" Text="{Binding Click}" Height="32" Margin="328,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" FontFamily="SimSun-ExtB" FontSize="22" FontWeight="Bold" SelectionOpacity="1"/>
+        <ListBox HorizontalAlignment="Left" Height="303" Margin="27,58,0,0" VerticalAlignment="Top" Width="262"/>
+        <Label Content="List of universities" HorizontalAlignment="Left" Margin="27,10,0,0" VerticalAlignment="Top" Width="262" FontSize="22" FontFamily="SimSun-ExtB" FontWeight="Bold" Height="32"/>
+        <Label Content="Country" HorizontalAlignment="Left" Margin="360,10,0,0" VerticalAlignment="Top" Width="104" FontSize="22" FontFamily="SimSun-ExtB" FontWeight="Bold" Height="32"/>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="Currency.View"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Currency"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="617.727" Width="934.182">
+    <Grid Opacity="0.77">
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Ravin\source\repos\Currency\Currency\Source\back.jpg"></ImageBrush>
+        </Grid.Background>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="593,143,0,0" VerticalAlignment="Top" Width="290" Height="50" FontSize="25" Click="Button_Click">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation To="Silver" 
+                                    Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" 
+                                    FillBehavior="Stop" 
+                                    Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <ListBox HorizontalAlignment="Left" Height="478" Margin="35,74,0,0" VerticalAlignment="Top" Width="516" DataContext="{Binding Source=listOfObjects}"/>
+        <TextBox HorizontalAlignment="Left" Height="48" Margin="593,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" FontSize="25"/>
+
+    </Grid>
+
+</Window>

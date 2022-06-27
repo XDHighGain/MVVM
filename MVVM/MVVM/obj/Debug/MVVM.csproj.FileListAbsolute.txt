@@ -1,0 +1,14 @@
+C:\Users\Ravin\source\repos\MVVM\MVVM\bin\Debug\MVVM.exe.config
+C:\Users\Ravin\source\repos\MVVM\MVVM\bin\Debug\MVVM.exe
+C:\Users\Ravin\source\repos\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\View\View.g.cs
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\App.g.cs
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\View\View.baml
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.g.resources
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.exe
+C:\Users\Ravin\source\repos\MVVM\MVVM\obj\Debug\MVVM.pdb
